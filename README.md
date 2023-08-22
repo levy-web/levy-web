@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levy-web&show_icons=true" alt="GitHub Stats"style="width: 100%;>
+  <img src="https://github-readme-stats.vercel.app/api?username=levy-web&show_icons=true" alt="GitHub Stats"style="width: 50%;>
 </div>
 
 <div align="center">
