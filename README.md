@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Hi there, I'm Levy Muguro Njiru 👋</h1> 
   <p><strong>👨‍💻 Software Engineer | 🌐 Full Stack Developer | 📚 Lifelong Learner</strong></p>
 </div>
