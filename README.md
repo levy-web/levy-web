@@ -12,6 +12,13 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to
 
 💡 I believe in the power of open source and collaboration. You can find my contributions to various projects here on my profile.
 
+#### 📊 GitHub Statistics
+
+🏆 **GitHub Stars:** [Number of stars]
+📝 **Total Commits:** [Number of commits]
+🚀 **Contributed to:** [Number of repositories you've contributed to]
+👨‍💻 **Pull Requests:** [Number of pull requests]
+
 #### 💻 Tech Stack
 
 🛠️ I'm experienced in: [List some key programming languages, frameworks, and tools you're proficient with].
