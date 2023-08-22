@@ -5,6 +5,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=levy-web&show_icons=true" alt="GitHub Stats"style="width: 50%;>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=levy-web&theme=dark&hide=stars,commits,prs,issues" alt="GitHub Streak"style="width: 50%;>
 </div>
 
 <div align="center">
