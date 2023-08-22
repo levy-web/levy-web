@@ -7,7 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=levy-web&show_icons=true" alt="GitHub Stats">
 </p>
 
-Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to complex problems through code. With a strong foundation in software engineering and a love for cutting-edge technologies, I strive to create efficient and user-friendly applications.
+<div align="center">
+<p>Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to complex problems through code. With a strong foundation in software engineering and a love for cutting-edge technologies, I strive to create efficient and user-friendly applications.</p>
+</div>
 
 #### 🚀 What I'm up to
 
