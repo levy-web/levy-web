@@ -1,4 +1,4 @@
-### Hi there, I'm Levy Muguro 👋
+### Hi there, I'm Levy Muguro Njiru 👋
 
 👨‍💻 Software Engineer | 🌐 Full Stack Developer | 📚 Lifelong Learner
 
@@ -27,6 +27,13 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to
 #### 🌐 Portfolio Website
 
 🔗 Check out my portfolio website [here](https://levy-portfolio-delta.vercel.app/) for a deeper dive into my projects and coding journey.
+
+
+#### ⚡ GitHub Activity
+
+- Total Contributions: ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levy-web&theme=vue)
+- Current Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levy-web&theme=dark)
+- Longest Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levy-web&theme=dark&hide=stars,commits,prs,issues)
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate or have a chat.
 
