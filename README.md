@@ -14,10 +14,7 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to
 
 #### 📊 GitHub Statistics
 
-🏆 **GitHub Stars:** [Number of stars]
-📝 **Total Commits:** [Number of commits]
-🚀 **Contributed to:** [Number of repositories you've contributed to]
-👨‍💻 **Pull Requests:** [Number of pull requests]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levy-web&show_icons=true&count_private=true&hide=stars,issues)
 
 #### 💻 Tech Stack
 
