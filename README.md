@@ -1,7 +1,6 @@
-<div style="text-align: center;">
-  <h1>Hi there, I'm Levy Muguro Njiru 👋</h1>
-  <p><strong>Software Engineer | Full Stack Developer | Lifelong Learner</strong></p>
-</div>
+### Hi there, I'm Levy Muguro Njiru 👋
+
+👨‍💻 Software Engineer | 🌐 Full Stack Developer | 📚 Lifelong Learner
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=levy-web&show_icons=true" alt="GitHub Stats">
