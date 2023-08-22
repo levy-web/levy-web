@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levy-web&theme=dark&hide=stars,commits,prs,issues)
 
-- Total Contributions: ![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levy-web&theme=vue)
+![Total Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levy-web&theme=vue)
  
 
 Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate or have a chat.
