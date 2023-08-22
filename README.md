@@ -21,7 +21,15 @@
 
 #### 💻 Tech Stack
 
-🛠️ I'm experienced in: [List some key programming languages, frameworks, and tools you're proficient with].
+🛠️ I'm experienced in: 
+
+- **Programming Languages**: JavaScript, Python, Java, Ruby
+- **Frontend Development**: HTML, CSS, React, Next, Angular
+- **Backend Development**: Ruby on Rails, Django
+- **Database Management**: Postgres, MySQL, Firebase
+- **Version Control**: Git
+- **Other Tools**: Visual Studio Code, Postman
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy-web&layout=compact" alt="Top Languages" style="width: 50%;">
