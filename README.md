@@ -3,7 +3,8 @@
 👨‍💻 Software Engineer | 🌐 Full Stack Developer | 📚 Lifelong Learner
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=levy-web&show_icons=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=levy-web&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levy-web&theme=dark&hide=stars,commits,prs,issues" alt="GitHub Streak">
 </p>
 
 Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to complex problems through code. With a strong foundation in software engineering and a love for cutting-edge technologies, I strive to create efficient and user-friendly applications.
