@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant solutions to
 
 🛠️ I'm experienced in: [List some key programming languages, frameworks, and tools you're proficient with].
 
-![Top Languages](https://github-readme-stats.vercel.app/api/langs/?username=levy-web&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levy-web&layout=compact)
 
 #### 📫 Let's Connect
 
