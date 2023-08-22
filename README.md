@@ -23,7 +23,9 @@
 
 🛠️ I'm experienced in: [List some key programming languages, frameworks, and tools you're proficient with].
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=levy-web&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy-web&layout=compact" alt="Top Languages" style="width: 70%;">
+</div>
 
 #### 📫 Let's Connect
 
