@@ -24,7 +24,7 @@
 🛠️ I'm experienced in: [List some key programming languages, frameworks, and tools you're proficient with].
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy-web&layout=compact" alt="Top Languages" style="width: 70%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy-web&layout=compact" alt="Top Languages" style="width: 50%;">
 </div>
 
 #### 📫 Let's Connect
@@ -39,7 +39,7 @@
 #### ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levy-web&theme=dark&hide=stars,commits,prs,issues" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levy-web&theme=dark&hide=stars,commits,prs,issues" alt="GitHub Streak" style="width: 70%>
 </p>
 
 <p align="center">
