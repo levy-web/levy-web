@@ -13,7 +13,7 @@
 
 #### 🚀 What I'm up to
 
-🔭 Currently, I'm working on [Elewa website]([https://italanta.github.io/elewa-website](https://github.com/italanta/elewa-website)), its an open source project.
+🔭 Currently, I'm working on [Elewa website]([https://github.com/italanta/elewa-website]), its an open source project.
 
 🌱 I'm constantly learning and exploring new technologies. My current focus is on Reactjs, Angular and Ruby on Rails.
 
